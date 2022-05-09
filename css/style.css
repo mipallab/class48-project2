@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+}
+
+.middle {
+	width: 400px;
+	margin: 20px auto;
+	border: 2px solid grey;
+	padding: 20px;
+}
+.error {
+	font-style: italic;
+	color: red;
+}
+.success {
+	font-style: italic;
+	color: green;
+}
+
